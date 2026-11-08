@@ -23,5 +23,3 @@ Projects focus on infrastructure deployment, network security, virtualization, a
 To document technical projects, track skill development, and demonstrate practical knowledge through organized, reproducible work.
 
 ---
-
-*All public documentation uses sanitized examples and excludes sensitive infrastructure details.*
